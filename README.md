@@ -1,49 +1,34 @@
-# Python Learning Journey for AI
+## Repository Structure
 
-This repository documents my journey learning Python, Data Analysis, Machine Learning, NLP, and Deep Learning.
+1. Python Basics
+2. Machine Learning Algorithms
+3. NLP Machine Learning
+4. Deep Learning
 
-## Topics Covered
+## Skills Learned
 
-### Python Basics
-- Variables and Data Types
-- Lists, Tuples, Dictionaries, Sets
-- Functions
-- Lambda Functions
-- Map, Filter
-- OOP
-- Decorators
-- Generators
-- Exception Handling
-- Hashing
-- Logging
-
-### Data Analysis
+- Python Programming
+- Object-Oriented Programming
 - NumPy
 - Pandas
-- Matplotlib
-- Seaborn
+- Data Visualization
 - Exploratory Data Analysis
+- Machine Learning Fundamentals
+- NLP Fundamentals
 
-### Machine Learning
-- Feature Engineering
-- Feature Selection
-- House Price Prediction
-
-### NLP
-- Coming Soon
-
-### Deep Learning
-- Coming Soon
-
-## Technologies Used
+## Tools & Libraries
 
 - Python
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit-Learn
 - Jupyter Notebook
 
-## Author
+## Future Goals
 
-Saksham Dhiman
+- Deep Learning
+- Computer Vision
+- Generative AI
+- MLOps
